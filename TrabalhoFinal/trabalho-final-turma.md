@@ -53,6 +53,6 @@ Segue abaixo todas as colaborações realizadas pela turma durante a disciplina.
 
 * Adicionado funcionalidade de tema escuro e claro e botão alternador de modo escuro e modo claro para todo o software com persistência da escolha do modo em sessão  ([PR #17](https://github.com/Slacky300/REAL_TIME_EDIFY/pull/17) - [a-mais(paulo-pinheiro)](https://github.com/a-mais));
 
-## Desenvolver estudo original com artigo sobre software livre (0)
+## Desenvolver estudo original com artigo sobre software livre (1)
 
-
+* Foi criado um estudo orginal (https://docs.google.com/document/d/1Zuemn9eKWMv4Ij97utJV1A1xRpEXgh80ltQ3Ig64LVk/edit?usp=sharing) sobre o tema Software Livre x Software Proprietário, com exemplos práticos. (Diego Rodrigo / Luís Gabriel)
